@@ -31,6 +31,7 @@
 [Беларуская мова][BE],
 [Русский][RU],
 [Українська][UK],
+[Հայերեն][AM],
 [العربية][AR],
 [فارسی][FA],
 [नेपाली भाषा][NE]
@@ -76,9 +77,11 @@
 [RU]:README.ru.md
 [TR]:README.tr.md
 [UK]:README.uk.md
+[AM]:README.am.md
 [VI]:README.vi.md
 [ZH_CN]:README.zh_cn.md
 [ZH_TW]:README.zh_tw.md
+
 
 Codi font original del Mòdul de Comandament (Comanche055) i del Mòdul Lunar (Comanche055) de l'ordinador de navegació de l'Apollo 11 (AGC, per les seves sigles en anglès). Digitalitzat per la gent de [Virtual AGC][3] i [MIT Museum][4]. L'objectiu és esdevenir un repositori del codi font original de l'Apollo 11. Per això els *pull requests* són benvinguts davant de qualsevol problema que s'identifiqui entre les transcripcions d'aquests repositori i les còpies originals del codi font de [Luminary 099][5] i [Comanche 055][6], així com qualsevol fitxer que m'hagi pogut deixar.
 

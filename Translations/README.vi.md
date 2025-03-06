@@ -31,6 +31,7 @@
 [Беларуская мова][BE],
 [Русский][RU],
 [Українська][UK],
+[Հայերեն][AM],
 [العربية][AR],
 [فارسی][FA],
 [नेपाली भाषा][NE]
@@ -76,9 +77,11 @@
 [RU]:README.ru.md
 [TR]:README.tr.md
 [UK]:README.uk.md
+[AM]:README.am.md
 [VI]:README.vi.md
 [ZH_CN]:README.zh_cn.md
 [ZH_TW]:README.zh_tw.md
+
 
 Mã nguồn của máy tính hướng dẫn Apollo 11 (AGC) thông qua Command Module (Comanche055) và Lunar Module (Luminary099). Được số hóa bởi những người ở [Virtual AGC][3] và [Bảo tàng MIT][4]. Mục tiêu là tạo ra một repo lưu trữ mã nguồn cho Apollo 11. Do vậy, yêu cầu đóng góp (pull request) là một điều bình thường cho bất kì một vấn đề được xác định giữa các bản dịch trong repo này và nguồn gốc quét mã cho [Luminary 099][5] và [Comanche 055][6], cũng như bất kì file nào mà chúng tôi có thể bỏ lỡ.
 

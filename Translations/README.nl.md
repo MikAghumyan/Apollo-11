@@ -31,6 +31,7 @@
 [Беларуская мова][BE],
 [Русский][RU],
 [Українська][UK],
+[Հայերեն][AM],
 [العربية][AR],
 [فارسی][FA],
 [नेपाली भाषा][NE]
@@ -76,9 +77,11 @@
 [RU]:README.ru.md
 [TR]:README.tr.md
 [UK]:README.uk.md
+[AM]:README.am.md
 [VI]:README.vi.md
 [ZH_CN]:README.zh_cn.md
 [ZH_TW]:README.zh_tw.md
+
 
 Originele broncode voor de Apollo 11 besturingscomputer (AGC). Broncode voor de besturingsmodule (Comanche055) en maanmodule (Luminary099). Gedigitalizeerd door [Virtual GC][3] en het [MIT Museum][4]. Het doel is om een repository te zijn van de oorspronkelijke Apollo 11 broncode en dus zijn PRs welkom voor elk probleem in de overgenomen broncode van [Luminary 099][5] en [Comanche 055][6] en elk bestand dat ik vergeten ben.
 

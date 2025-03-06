@@ -31,6 +31,7 @@
 [Беларуская мова][BE],
 [Русский][RU],
 [Українська][UK],
+[Հայերեն][AM],
 [العربية][AR],
 [فارسی][FA],
 [नेपाली भाषा][NE]
@@ -76,9 +77,11 @@
 [RU]:README.ru.md
 [TR]:README.tr.md
 [UK]:README.uk.md
+[AM]:README.am.md
 [VI]:README.vi.md
 [ZH_CN]:README.zh_cn.md
 [ZH_TW]:README.zh_tw.md
+
 
 Original kildekode til Apollo 11’s veiledningsdatamaskin for kommando ( Comanche055 ) og måne ( Luminary099 ) modulene. Digitalisert av folkene fra [Virtual AGC][3] og [MIT Museum][4]. Målet er å være et depot for den originale Apollo 11 kildekoden. «Pull Requests» er ønskelige for feil som måtte finnes i oversettelser i dette depotet og de originale bildene av kildekoden til Luminary 099 og Comanche 055, samt bortglemte filer.
 

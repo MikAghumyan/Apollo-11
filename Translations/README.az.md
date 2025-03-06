@@ -31,6 +31,7 @@
 [Беларуская мова][BE],
 [Русский][RU],
 [Українська][UK],
+[Հայերեն][AM],
 [العربية][AR],
 [فارسی][FA],
 [नेपाली भाषा][NE]
@@ -76,9 +77,11 @@
 [RU]:README.ru.md
 [TR]:README.tr.md
 [UK]:README.uk.md
+[AM]:README.am.md
 [VI]:README.vi.md
 [ZH_CN]:README.zh_cn.md
 [ZH_TW]:README.zh_tw.md
+
 
 Original Apollo 11 Yönləndirmə Kompüterinin (AGC) Komanda Modulu (Comanche055) və Ay modulu (Luminary099) üçün mənbə kodu. [Virtual AGC][3] və [MIT Museum][4] əməkdaşları tərəfindən rəqəmsallaşdırılıb. Məqsəd, original Apollo 11 mənbə kodunu ehtiva edən bir repo yaratmaqdır. Buna görə də, bu repodakı transkriptlər ilə original [Luminary 099][5] və [Comanche 055][6] mənbə skanları arasında aşkarlanan xətalarla və ya mənim gözdən qaçırdığım bir fayl ilə əlaqəli pull request-ləri önəmsəyirik.
 
